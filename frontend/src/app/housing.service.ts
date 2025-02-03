@@ -123,7 +123,7 @@ export class HousingService {
         "laundry": false,
         "url": "https://www.erwinny.org",
         "info": "Official website for the Town of Erwin. An early project using custom HTML, CSS, JavaScript, and jQuery.",
-        "stack": "Custom-built with HTML, CSS, JavaScript."
+        "stack": "Custom-built with PHP"
       },
       {
         "id": 9,

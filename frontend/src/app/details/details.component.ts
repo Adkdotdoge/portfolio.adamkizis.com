@@ -18,13 +18,13 @@ import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
 </section> 
   <section class="listing-features">
   <h2 class="section-heading">About this Location</h2>
-  <ul>
+  <ul hidden>
    <li> Units Available: {{housingLocation?.availableUnits}}</li>
    <li> Wifi Available?: {{housingLocation?.wifi}}</li>
    <li> On Location Laundry Available: {{housingLocation?.laundry}}</li>
   </ul>
   </section>
-  <section>
+  <section hidden>
   <h2>Apply to Rent</h2>
   <form [formGroup]="applyForm" (submit)="submitApplication()">
    <label for="first-name">First Name</label>
