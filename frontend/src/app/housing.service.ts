@@ -13,7 +13,7 @@ export class HousingService {
         "name": "lanesboroprint.com",
         "city": "Lanesborough",
         "state": "MA",
-        "photo": "https://adamkizis.com/assets/img/lanesboroprint.png",
+        "photo": "/assets/img/lanesboroprint.png",
         "availableUnits": 4,
         "wifi": true,
         "laundry": true,
