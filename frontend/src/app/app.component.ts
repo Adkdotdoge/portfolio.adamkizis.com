@@ -7,11 +7,12 @@ import { RouterModule } from '@angular/router';
   selector: 'app-root',
   template: `
   <main>
-    <header class="brand-name d-flex">
+    <header class="brand-name">
       <nav class="d-flex">
-      <div class="row">
-      <div class="col-md-6 col-12">
-      <h2>Adamkizis.com<small> Web Development Portfolio</small></h2>
+      <div class="row g-2" style="width: 100%;">
+      <div class="col-sm-6 col-12">
+      <h2>Adamkizis.com</h2>
+      <h6>Web Development Portfolio</h6>
       </div>
       <div class="col-md-6 col-12">
       <a href="https://adamkizis.myportfolio.com/services" class="btn primary m-1">Pre-media & Print</a>
