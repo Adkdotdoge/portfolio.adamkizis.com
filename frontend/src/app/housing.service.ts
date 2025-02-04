@@ -10,14 +10,14 @@ export class HousingService {
   
       {
         "id": 0,
-        "name": "printshop.aetherbind.com",
+        "name": "lanesboroprint.com",
         "city": "Lanesborough",
         "state": "MA",
-        "photo": "https://adamkizis.com/assets/img/Why-You-Should-Switch-to-Code-Based-Design-1024x512.png",
+        "photo": "https://adamkizis.com/assets/img/lanesboroprint.png",
         "availableUnits": 4,
         "wifi": true,
         "laundry": true,
-        "url": "https://printshop.aetherbind.com",
+        "url": "https://lanesboroprint.com",
         "info": "Printshop web application to calculate costs, submit orders and upload documents for printing in my home lab/small business.",
         "stack": "PHP and MySQL on a LAMP stack."
       },
