@@ -137,6 +137,32 @@ export class HousingService {
         "url": "https://aetherbind.com",
         "info": "Aetherbind's company website showcasing services and projects.",
         "stack": "Laravel, PHP, TailwindCSS."
+      },
+      {
+        "id": 10,
+        "name": "MakerSupply.com - Alchemy Kits",
+        "city": "N/A",
+        "state": "N/A",
+        "photo": "https://adamkizis.com/assets/img/Why-You-Should-Switch-to-Code-Based-Design-1024x512.png",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": false,
+        "url": "https://makersupplyma.com/alchemykits/",
+        "info": "New Product Spotlight page for Maker Supply kits",
+        "stack": "Bootstrap 5.3, animated SVGs and custom photos"
+      },
+      {
+        "id": 11,
+        "name": "J-E-L Construction inc",
+        "city": "N/A",
+        "state": "N/A",
+        "photo": "https://adamkizis.com/assets/img/Why-You-Should-Switch-to-Code-Based-Design-1024x512.png",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": false,
+        "url": "https://jelconstructioninc.com",
+        "info": "Website for local construction company",
+        "stack": "Bootstrap 5.3"
       }
     
 
