@@ -36,7 +36,7 @@ export class HomeComponent {
     });
   }
   onSubmit(event: Event, text: string) {
-    event.preventDefault(); // ✅ Prevents page reload
+    event.preventDefault();
     this.filterResults(text);
   }
 

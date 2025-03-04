@@ -5,7 +5,6 @@ import { HousingLocation } from './housing-location';
   providedIn: 'root'
 })
 export class HousingService {
-  // ✅ Directly embed the JSON data
   private locations: HousingLocation[] = [
   
       {
@@ -149,7 +148,7 @@ export class HousingService {
         "laundry": false,
         "url": "https://makersupplyma.com/alchemykits/",
         "info": "New Product Spotlight page for Maker Supply kits",
-        "stack": "Bootstrap 5.3, animated SVGs and custom photos"
+        "stack": "Bootstrap 5.3, animated SVGs and custom photos, PHP"
       },
       {
         "id": 11,
@@ -162,7 +161,7 @@ export class HousingService {
         "laundry": false,
         "url": "https://jelconstructioninc.com",
         "info": "Website for local construction company",
-        "stack": "Bootstrap 5.3"
+        "stack": "Bootstrap 5.3 CSS, javascript, PHP"
       }
     
 
