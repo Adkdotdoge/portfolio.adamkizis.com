@@ -167,7 +167,7 @@ export class HousingService {
         "name": "Fraternite Impact Producers",
         "city": "N/A",
         "state": "N/A",
-        "photo": "../assets/jelconstruction.png",
+        "photo": "../assets/fraterniteimpactproducers.png",
         "availableUnits": 0,
         "wifi": false,
         "laundry": false,
