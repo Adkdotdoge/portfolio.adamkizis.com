@@ -12,12 +12,13 @@ import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
   template: `
 <article>
 <img class="listing-photo" [src]="housingLocation?.photo">
-<section class="listing-description">
+<section class="listing-description" hidden>
   <h2 class="listing-heading">{{housingLocation?.name}}</h2>
   <p class="listing-location">{{housingLocation?.city}}, {{housingLocation?.state}}</p>
 </section> 
   <section class="listing-features">
-  <h2 class="section-heading">About this Location</h2>
+  <h2 class="section-heading">More Info</h2>
+  <a class="primary" href="{{housingLocation?.url}}"target="_blank">Visit Site</a>
   <ul hidden>
    <li> Units Available: {{housingLocation?.availableUnits}}</li>
    <li> Wifi Available?: {{housingLocation?.wifi}}</li>

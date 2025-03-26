@@ -162,6 +162,18 @@ export class HousingService {
         "url": "https://jelconstructioninc.com",
         "info": "Website for local construction company",
         "stack": "Bootstrap 5.3 CSS, javascript, PHP"
+      },      {
+        "id": 12,
+        "name": "Fraternite Impact Producers",
+        "city": "N/A",
+        "state": "N/A",
+        "photo": "../assets/jelconstruction.png",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": false,
+        "url": "https://fraterniteimpactproducers.com",
+        "info": "Fraternité Impact Producers strives to create entertainment that drives positive social impact. As producers, directors, researchers, and social innovators, we leverage data-driven creativity to seamlessly blend marketability with purpose in film and video projects of all sizes.",
+        "stack": "Bootstrap 5.3 CSS, javascript"
       }
     
 
