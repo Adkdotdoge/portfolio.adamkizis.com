@@ -18,7 +18,6 @@ import { FormControl, FormGroup, ReactiveFormsModule } from '@angular/forms';
 </section> 
   <section class="listing-features">
   <h2 class="section-heading">More Info</h2>
-  <a class="primary" href="{{housingLocation?.url}}"target="_blank">Visit Site</a>
   <ul hidden>
    <li> Units Available: {{housingLocation?.availableUnits}}</li>
    <li> Wifi Available?: {{housingLocation?.wifi}}</li>
