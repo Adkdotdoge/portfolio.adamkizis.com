@@ -174,6 +174,30 @@ export class HousingService {
         "url": "https://fraterniteimpactproducers.com",
         "info": "Fraternité Impact Producers strives to create entertainment that drives positive social impact. As producers, directors, researchers, and social innovators, we leverage data-driven creativity to seamlessly blend marketability with purpose in film and video projects of all sizes.",
         "stack": "Bootstrap 5.3 CSS, javascript"
+      },      {
+        "id": 13,
+        "name": "TayarGuide",
+        "city": "N/A",
+        "state": "N/A",
+        "photo": "../assets/Why-You-Should-Switch-to-Code-Based-Design-1024x512.png",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": false,
+        "url": "https://travelsocial.aetherbind.com",
+        "info": "TAYAR Guide, developed in Western Massachusetts, will connect 14.7 million Jewish travelers worldwide.  Our mission is to connect Jewish travelers through authentic, community-driven experiences while ensuring every journey is safe, meaningful, and culturally enriching.",
+        "stack": "Bootstrap 5.3 CSS, javascript, php laravel, tailwind, alpine, livewire, mysql"
+      },      {
+        "id": 14,
+        "name": "OFFMAIN.io",
+        "city": "N/A",
+        "state": "N/A",
+        "photo": "../assets/Why-You-Should-Switch-to-Code-Based-Design-1024x512.png",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": false,
+        "url": "https://offmain.io",
+        "info": "Offmain is a small business directory, curated by the smb owner - allowing them a free resource to share all of their links and information in once place and gain visability",
+        "stack": "php laravel, tailwind, alpine, livewire, mysql"
       }
     
 
