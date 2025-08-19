@@ -183,7 +183,7 @@ export class HousingService {
         "availableUnits": 0,
         "wifi": false,
         "laundry": false,
-        "url": "https://travelsocial.aetherbind.com",
+        "url": "https://tayarguide.com",
         "info": "TAYAR Guide, developed in Western Massachusetts, will connect 14.7 million Jewish travelers worldwide.  Our mission is to connect Jewish travelers through authentic, community-driven experiences while ensuring every journey is safe, meaningful, and culturally enriching.",
         "stack": "Bootstrap 5.3 CSS, javascript, php laravel, tailwind, alpine, livewire, mysql"
       },      {
